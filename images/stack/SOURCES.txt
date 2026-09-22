@@ -1,0 +1,30 @@
+Brand SVGs: Simple Icons, pinned versions below. Brand trademarks and usage rules remain with their respective owners.
+React Three Fiber uses the React ecosystem mark; Embedded C/C++ uses C++; Python AI Libraries uses Python; ESP32 uses Espressif. Generic concepts use original line illustrations (not brand logos).
+
+android.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/android.svg
+arduino.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/arduino.svg
+c.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/c.svg
+codeigniter.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/codeigniter.svg
+cplusplus.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/cplusplus.svg
+dart.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/dart.svg
+docker.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/docker.svg
+espressif.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/espressif.svg
+figma.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/figma.svg
+flutter.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/flutter.svg
+framer.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/framer.svg
+git.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/git.svg
+github.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/github.svg
+gsap.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/greensock.svg
+javascript.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/javascript.svg
+laravel.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/laravel.svg
+linux.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/linux.svg
+mysql.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/mysql.svg
+php.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/php.svg
+python.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/python.svg
+react.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/react.svg
+tailwindcss.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/tailwindcss.svg
+threedotjs.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/threedotjs.svg
+typescript.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/typescript.svg
+vite.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/vite.svg
+vscode.svg: https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/visualstudiocode.svg
+webgl.svg: https://cdn.jsdelivr.net/npm/simple-icons@12.4.0/icons/webgl.svg
